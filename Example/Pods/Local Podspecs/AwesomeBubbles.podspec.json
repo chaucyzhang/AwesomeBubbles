@@ -1,0 +1,22 @@
+{
+  "name": "AwesomeBubbles",
+  "version": "0.1.0",
+  "summary": "A short description of AwesomeBubbles.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/chaucyzhang@gmail.com/AwesomeBubbles",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "chaucyzhang@gmail.com": "chaucyzhang@gmail.com"
+  },
+  "source": {
+    "git": "https://github.com/chaucyzhang@gmail.com/AwesomeBubbles.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "AwesomeBubbles/Classes/**/*"
+}

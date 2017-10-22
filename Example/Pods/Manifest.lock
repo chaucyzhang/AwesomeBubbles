@@ -1,0 +1,26 @@
+PODS:
+  - AwesomeBubbles (0.1.0)
+  - FBSnapshotTestCase (2.1.4):
+    - FBSnapshotTestCase/SwiftSupport (= 2.1.4)
+  - FBSnapshotTestCase/Core (2.1.4)
+  - FBSnapshotTestCase/SwiftSupport (2.1.4):
+    - FBSnapshotTestCase/Core
+  - Quick (1.0.0)
+
+DEPENDENCIES:
+  - AwesomeBubbles (from `../`)
+  - FBSnapshotTestCase
+  - Quick (~> 1.0.0)
+
+EXTERNAL SOURCES:
+  AwesomeBubbles:
+    :path: ../
+
+SPEC CHECKSUMS:
+  AwesomeBubbles: c3be10168680be9b9fbed1a5d26c6abae946b2e0
+  FBSnapshotTestCase: 094f9f314decbabe373b87cc339bea235a63e07a
+  Quick: 8024e4a47e6cc03a9d5245ef0948264fc6d27cff
+
+PODFILE CHECKSUM: 796107d9f246a2da7be32aadf6830979d6d4c715
+
+COCOAPODS: 1.2.1

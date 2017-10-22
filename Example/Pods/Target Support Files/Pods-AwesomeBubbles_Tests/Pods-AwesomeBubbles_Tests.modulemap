@@ -1,0 +1,6 @@
+framework module Pods_AwesomeBubbles_Tests {
+  umbrella header "Pods-AwesomeBubbles_Tests-umbrella.h"
+
+  export *
+  module * { export * }
+}
